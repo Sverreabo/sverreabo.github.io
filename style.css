@@ -25,6 +25,12 @@ p {
 	margin:1%;
 	text-align:center;
 }
+
+img {
+	position:absolute;
+	margin:auto;
+	margin-left:1%;
+}
 div p{
 	text-align:left;
 }
