@@ -8,5 +8,5 @@ function main() {
 	}
 }
 
-console.log("Successfully started main.js");
+console.log("Successfully started main.js @ " + Date());
 main();
